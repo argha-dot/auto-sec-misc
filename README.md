@@ -6,6 +6,8 @@
  - The exact procdure and a strting guide is [here](https://www.electronicshub.org/arduino-mcp2515-can-bus-tutorial/).
 
 ## Flash Dumping
+  - Something
 
 
 ## Bluetooth Attacks
+  - Alfred
